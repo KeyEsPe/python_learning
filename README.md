@@ -12,29 +12,7 @@ This is my personal Python learning project. I am transitioning into IT, and I l
 | `02_loops/` | for loops, while loops, practical use cases |
 | `03_data_structures/` | lists, tuples, dictionaries, sets |
 | `04_external_tools/` | libraries, pip packages |
-
----
-
-## ✅ What I have Learned So Far
-
-- [x] Variables & data types
-- [x] Math operations
-- [x] Conditionals 
-- [x] For loops
-- [x] Defining functions
-- [x] Lists, tuples, dictionaries, sets
-- [x] Installing & using libraries
-- [ ] Writing tests
-- [ ] Building larger projects
-
----
-
-## 🚀 Next Goals
-
-- More practice with **functions** (return, arguments, etc.)
-- Practice Git/GitHub **daily**
-- Work with **files** (reading/writing)
-- Start building **bigger projects** to practice what I have learned
+| `05_oop/` | classes, objects and methods |
 
 ---
 
